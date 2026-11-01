@@ -1,0 +1,6 @@
+data/
+*.log
+__pycache__/
+.anthropic_key
+hand_labels-cvs*
+.DS_Store
